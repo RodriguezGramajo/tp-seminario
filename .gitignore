@@ -1,2 +1,3 @@
-#Ignore venv folder
+#Ignore folders
 webapp-env/
+__pycache__/
